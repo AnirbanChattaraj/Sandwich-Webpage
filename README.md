@@ -16,7 +16,7 @@ Practical JavaScript functionality for real user interaction
 
 The page provides information about sandwiches, their benefits, and their history, presented in a visually pleasing and accessible way.
 
-🎨 Color Palette
+🎨 Color Palette:
 
 The design uses a warm, natural color scheme inspired by freshness and food aesthetics:
 
