@@ -54,7 +54,7 @@ Subtle hover and transition effects across UI elements
 
 Fully responsive layout for desktop and mobile devices
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 HTML5 – Semantic structure
 
