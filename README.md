@@ -38,7 +38,7 @@ Poppins – Used for body text to ensure readability and modern appearance
 
 This combination balances elegance with clarity.
 
-⚙️ Features & Functionality
+⚙️ Features & Functionality:
 
 Responsive header with smooth scrolling navigation
 
@@ -60,7 +60,7 @@ HTML5 – Semantic structure
 
 CSS3 – Custom properties, gradients, transitions, responsive design
 
-JavaScript (Vanilla) – DOM manipulation, event handling, dynamic content
+JavaScript  – DOM manipulation, event handling, dynamic content
 
 Preview>>https://anirbanchattaraj.github.io/Sandwich-Webpage/
 
